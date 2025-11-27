@@ -1,6 +1,6 @@
 # Loss Landscape Geometry & Optimization Dynamics
 
-This repository contains a lightweight, modular implementation for probing neural
+This repository contains an implementation for probing neural
 network loss landscapes. The goal is to empirically study how geometry relates to
 optimization dynamics and generalization.
 
@@ -18,6 +18,7 @@ flatness, connectivity, and gradient noise measurements.
 - `plotting.py`       — visualization helpers
 - `figures/`          — auto-generated plots
 - `data/`             — MNIST dataset (downloaded automatically)
+- `Loss_Landscape_Report.pdf` — Theoretical write-up
 
 ## Requirements
 - Python 3.8+
