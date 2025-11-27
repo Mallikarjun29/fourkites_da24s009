@@ -30,7 +30,7 @@ pip install torch torchvision matplotlib numpy
 
 ## Usage
 Run the main experiment:
-
+`python main.py`
 
 The script will:
 - train two MLPs with different random seeds
